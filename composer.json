@@ -1,5 +1,5 @@
 {
-    "name": "cyberwolfstudio/lingua",
+    "name": "samehdoush/lingua",
     "description": "Add your Laravel language translations to your asset pipeline for use in Javascript packages like Vue or React.",
     "require": {
         "php": "^8.2",
@@ -12,8 +12,8 @@
             "email": "secondman@jetstreamlabs.com"
         },
         {
-            "name": "cyberwolfstudio",
-            "email": "hello@cyberwolfstudio.com"
+            "name": "samehdoush",
+            "email": "hello@samehdoush.com"
         }
     ],
     "autoload": {

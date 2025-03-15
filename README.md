@@ -24,7 +24,7 @@ Vue. (React coming soon)
 First, install the package via composer:
 
 ``` bash
-composer require cyberwolfstudio/lingua
+composer require samehdoush/lingua
 ```
 
 The package will automatically register itself.
