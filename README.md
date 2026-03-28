@@ -14,7 +14,7 @@ Vue. (React coming soon)
 
 # Requirements
 
-* **Laravel**: ^9.* or higher
+* **Laravel**: ^9.* through ^13.*
 * **InertiaJS**: ^1.*
 * **VueJS**: ^3.*
 * **ViteJS**: ^3.*
